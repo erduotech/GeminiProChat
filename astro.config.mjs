@@ -25,7 +25,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: '耳朵智能AI小助手',
+        name: '耳朵智能AI小助理',
         short_name: '耳朵智能AI',
         description: '基于 Gemini 搭建的AI模型对话框',
         theme_color: '#212129',
