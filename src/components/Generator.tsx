@@ -223,7 +223,7 @@ export default () => {
           <textarea
             ref={inputRef!}
             onKeyDown={handleKeydown}
-            placeholder="Enter something..."
+            placeholder="输入一些内容..."
             autocomplete="off"
             autofocus
             onInput={() => {
