@@ -25,9 +25,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: 'ChatGPT-API Demo',
-        short_name: 'ChatGPT Demo',
-        description: 'A demo repo based on OpenAI API',
+        name: '耳朵智能AI小助手',
+        short_name: '耳朵智能AI',
+        description: '基于 Gemini 搭建的AI模型对话框',
         theme_color: '#212129',
         background_color: '#ffffff',
         icons: [
